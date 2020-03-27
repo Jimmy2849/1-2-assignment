@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Heo\source\repos\Project6\Project1\소스.c(115,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Heo\source\repos\Project6\Project1\소스.c(128,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\Heo\source\repos\Project6\Debug\Project1.exe

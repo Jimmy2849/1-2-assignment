@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Heo\source\repos\Project8\Project1\소스.c(70,22): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Heo\source\repos\Project8\Project1\소스.c(71,28): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  Project1.vcxproj -> C:\Users\Heo\source\repos\Project8\Debug\Project1.exe
